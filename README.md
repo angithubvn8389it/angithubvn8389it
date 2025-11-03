@@ -1,10 +1,11 @@
 - 👋 Hello everyone who is reading my README.md page, I’m @angithubvn8389it.
-- I'm a full-time student learning at Van Lang University - Faculty of Information Technology (Software Engineer major).
-- 👀 I’m interested in music, programming (of course) and gaming.
-- 🌱 I’m currently learning Python, C/C++, Javascript and HTML
+- I'm a full-time student learning at Van Lang University - Faculty of Information Technology (Data Technology major).
+- 👀 I’m interested in music (peak music), programming (of course) and gaming.
+- 🌱 I’m currently learning Python, C#, Javascript, HTML, CSS (will be added more).
 - 💞️ I’m looking to collaborate on (not yet).
 - 📫 How to reach me:
-* Via my Discord:  
+* Via my Discord:
+*   
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: there's no fun fact (not actually)
 
