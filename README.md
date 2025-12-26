@@ -8,9 +8,9 @@
   *   
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: there's no fun fact (not actually)
-- My progress on the Data Scientist roadmap:
+- My progress on my roadmap:
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68b7b556ec895e8561217871?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68b7b556ec895e8561217871?variant=dark&roadmaps=)](https://roadmap.sh)
 
 <!---
 angithubvn8389it/angithubvn8389it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
